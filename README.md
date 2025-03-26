@@ -1,4 +1,5 @@
 # 👋 Hi, I'm **Oladosu Ibrahim Adeniyi**!
+![WhatsApp Image 2025-01-10 at 08 46 43_628c5161](https://github.com/user-attachments/assets/5da2263d-9543-4c34-8799-1fae029d9e77)
 
 ## 🌐 **Data Analyst | Data Engineer | Cloud/DevOps Engineer**
 
