@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a dedicated **Data Analyst, Data Engineer, an
 
 With a background in **Accounting & Finance**, I transitioned into the tech industry, leveraging my analytical skills to help businesses adopt data-driven solutions and cloud architectures that enhance efficiency and innovation.  
 
-I am also the **Founder of CodeSphere Academy [CodeSphere Academy](https://www.linkedin.com/company/codesphere-academy-a/)**, a platform committed to mentoring and training aspiring **Data Analysts, Data Engineers, Cloud Engineers, and other tech professionals**. Through this initiative, I empower individuals with the skills needed to excel in the ever-evolving tech landscape.  
+I am also the **Founder/CEO of CodeSphere Academy [CodeSphere Academy](https://www.linkedin.com/company/codesphere-academy-a/)**, a platform committed to mentoring and training aspiring **Data Analysts, Data Engineers, Cloud Engineers, and other tech professionals**. Through this initiative, I empower individuals with the skills needed to excel in the ever-evolving tech landscape.  
 
 Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, **Ibrahim’s Cloud & Data Chronicles [Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)**, where I explore topics related to **Data, AI, Cloud, and DevOps**, providing insights and best practices to help others navigate the world of technology.
 
