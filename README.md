@@ -108,29 +108,54 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 ---
 
 ## 💡 **Key Projects**
-### 📊 **Financial Analysis of Mining Companies**
-- *Analyzed AGNICO EAGLE MINES Ltd. & First Quantum Minerals Ltd. using financial ratios for investment insights.*  
-- *Tools: Microsoft Excel, PowerBI, SQL*
 
-### 🏥 **Hospital Patient Records Dashboard**
-- *Built PowerBI dashboards to visualize patient demographics and financial metrics.*  
-- *Tools: PowerBI, SQL*
+### 🏦 **Bank Churn Analysis**
+
+* *Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart*
+
+### 📱 **MTN Customer Churn Analysis**
+
+* *Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart*
 
 ### ✈️ **Airline Passenger Satisfaction Analysis**
-- *Explored passenger feedback using Python to identify key customer satisfaction drivers.*  
-- *Tools: Python, Pandas, Seaborn*
 
-### 📈 **Udemy Course Analysis**
-- *Analyzed Udemy's course data to identify trends in pricing, student engagement, and course popularity.*  
-- *Tools: Python, Matplotlib, Seaborn*
+* *Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart*
+
+### 🛒 **Global Electronics Retailer Analysis**
+
+* *Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark*
+
+### 🚆 **UK Train Rides Analysis**
+
+* *Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark*
+
+### 💼 **CRM Sales Opportunities Analysis**
+
+* *Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark*
+
+### 🚔 **Motor Vehicle Theft Analysis**
+
+* *Tools: Microsoft Excel, MySQL, Key Analysis*
+
+### 🎬 **Netflix Movies & TV Shows Analysis**
+
+* *Tools: Microsoft Excel, MySQL, Key Analysis*
+
+### 🕵️‍♂️ **Fraud Detection Analysis**
+
+* *Tools: Python, Numpy, Pandas, Matplotlib, Seaborn*
 
 ---
 
 ## 📝 **Recent Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [The Role of Excel in Business Intelligence and Data-Driven Decision-Making](https://sudais.hashnode.dev/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making)
-- [Cloud adoption in Nigeria’s banking: The key to a modern, inclusive future](https://businessday.ng/opinion/article/cloud-adoption-in-nigerias-banking-the-key-to-a-modern-inclusive-future/)
-- [Creating a Linux Virtual Machine on Microsoft Azure](https://sudais.hashnode.dev/step-by-step-guide-creating-a-linux-virtual-machine-on-microsoft-azure)
+- [Nigeria’s economic future rests on tech — Not oil](https://businessday.ng/opinion/article/nigerias-economic-future-rests-on-tech-not-oil/) - *Business Day*
+- [AI isn’t taking our jobs; it’s transforming them](https://businessday.ng/pro/article/ai-isnt-taking-our-jobs-its-transforming-them/) - *Business Day*
+- [Cloud adoption in Nigeria’s banking: The key to a modern, inclusive future](https://businessday.ng/opinion/article/cloud-adoption-in-nigerias-banking-the-key-to-a-modern-inclusive-future/) - *Business Day*
+- [Multi-Cloud Strategy and How Can It Benefit Enterprises](https://sudais.hashnode.dev/multi-cloud-strategy-and-how-can-it-benefit-enterprises) - *Hashnode*
+- [Creating a Linux Virtual Machine on Microsoft Azure](https://sudais.hashnode.dev/step-by-step-guide-creating-a-linux-virtual-machine-on-microsoft-azure) - *Hashnode*
+- [The Role of Excel in Business Intelligence and Data-Driven Decision-Making](https://sudais.hashnode.dev/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making) - *Hashnode*
+- [Predictive Analytics Failures in Business: What Went Wrong and Why](https://sudais.hashnode.dev/predictive-analytics-failures-in-business-what-went-wrong-and-why) - *Hashnode*
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)
@@ -138,11 +163,7 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 ---
 
 ## 🏅 **Certifications**
-- 🎯 **Microsoft Certified PowerBI Data Analyst Associate**  
-- ☁️ **Microsoft Certified Azure Fundamentals**  
-- 🏷️ **Microsoft Certified Azure Data Fundamentals**  
-- 📈 **Microsoft Certified Azure Solutions Architect**  
-- 💻 **AWS Certified Cloud Practitioner**  
+- 🎯 **GitHub Foundation**  
 
 ---
 
