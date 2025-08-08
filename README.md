@@ -11,14 +11,14 @@ With a background in **Accounting & Finance**, I transitioned into the tech indu
 
 I am also the **Founder/Senior Technical Trainer at CodeSphere Academy [CodeSphere Academy](https://www.linkedin.com/company/codesphere-academy-a/)**, a platform committed to mentoring and training aspiring **Data Analysts, Data Engineers, Cloud Engineers, and other tech professionals**. Through this initiative, I empower individuals with the skills needed to excel in the ever-evolving tech landscape.  
 
-Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, **Ibrahim’s Cloud & Data Chronicles [Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)**, where I explore topics related to **Data, AI, Cloud, and DevOps**, providing insights and best practices to help others navigate the world of technology.
+Beyond my technical expertise, I am passionate about knowledge sharing. I regularly contribute to the tech community through my blog, **Ibrahim’s Cloud & Data Chronicles [Ibrahim’s Cloud & Data Chronicles](https://dev.to/sudaisib)**, where I explore topics related to **Data, AI, Cloud, and DevOps**, providing insights and best practices to help others navigate the world of technology.
 
 ---
 
 ## 🚀 **About Me**
 - 🎓 **Background**: Transitioned from **Accounting & Finance** to **Data & Cloud Engineering**.
 - 🏫 **Founder**: [CodeSphere Academy](https://www.linkedin.com/company/codesphere-academy-a/) — Mentoring future tech professionals.
-- 📝 **Tech Blogger**: [Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/) — Writing about **Data, AI, Cloud, and DevOps**.
+- 📝 **Tech Blogger**: [Ibrahim’s Cloud & Data Chronicles](https://dev.to/sudaisib) — Writing about **Data, AI, Cloud, and DevOps**.
 - 📈 **Specialization**: Data Engineering, Cloud Computing, DevOps, SQL, Business Intelligence, Database Management, and Infrastructure Automation.
 - ✨ **Passionate about**: Cloud adoption, AI-driven analytics, and automation for business transformation.
 
@@ -147,6 +147,36 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 
 ---
 
+## 🏅 **Certifications**
+
+| Certification                                                                   | Issuer            |
+| ------------------------------------------------------------------------------- | ----------------- |
+| Microsoft Certified: Power BI Data Analyst Associate (MCDAA)                    | Microsoft         |
+| Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | Microsoft         |
+| Microsoft Applied Skills: Get started with Azure management tasks               | Microsoft         |
+| Microsoft Certified: Azure Data Fundamentals                                    | Microsoft         |
+| Microsoft Certified: Azure Developer Associate                                  | Microsoft         |
+| AWS Certified Cloud Practitioner                                                | AWS               |
+| Aviatrix Certified Engineer (ACE) Multicloud Network Associate                  | Aviatrix          |
+| GitHub Foundation                                                               | GitHub            |
+| Introduction to FinOps                                                          | FinOps Foundation |
+| SQL Associate                                                                   | DataCamp          |
+
+---
+
+## 🎤 **Public Speaking & Media Appearances**
+
+**LN247 “This Morning Show”**
+**Topic**: *Data-Driven Future: Empowering Africa’s Youth Through Tech and Cloud Skills*
+**Date**: July 2025 | **Broadcast**: National TV – Abuja (Channel 36), Port Harcourt (Channel 21), Freetv (Channel 707)
+
+* Invited to speak on a live national broadcast about the critical role of cloud technologies and data literacy in Africa’s youth development.
+* Shared expert insights on bridging the digital divide through inclusive tech education and accessible skill-building platforms.
+* Represented **CodeSphere Academy** as Founder and Technology Advocate, showcasing the academy’s mission to democratize digital skills across the continent.
+* Reached a wide national audience, promoting the importance of building a **data-driven and cloud-ready generation**.
+
+---
+
 ## 📝 **Recent Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Nigeria’s economic future rests on tech — Not oil](https://businessday.ng/opinion/article/nigerias-economic-future-rests-on-tech-not-oil/) - *Business Day*
@@ -162,11 +192,6 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 
 ---
 
-## 🏅 **Certifications**
-- 🎯 **GitHub Foundation**  
-
----
-
 ## 🤝 **Let’s Connect & Collaborate!**
 
 I am always open to exciting collaborations and discussions in the following areas:
@@ -178,7 +203,7 @@ I am always open to exciting collaborations and discussions in the following are
 
 📧 **Email**: [info@codesphereacademy.com](mailto:info@codesphereacademy.com)  
 🌍 **LinkedIn**: [Oladosu Ibrahim](https://www.linkedin.com/in/oladosu-ibrahim-adeniyi)  
-✍️ **Blog**: [Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)  
+✍️ **Blog**: [Ibrahim’s Cloud & Data Chronicles](https://dev.to/sudaisib)  
 
 ---
 
@@ -186,5 +211,3 @@ I am always open to exciting collaborations and discussions in the following are
 **#DataAnalysis #CloudComputing #DataVisualization #TechEducation #PowerBI #Python #SQL #AI**  
 
 **© 2025 Oladosu Ibrahim Adeniyi**
-
-
