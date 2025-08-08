@@ -149,18 +149,18 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 
 ## 🏅 **Certifications**
 
-| Certification                                                                   | Issuer            |
-| ------------------------------------------------------------------------------- | ----------------- |
-| Microsoft Certified: Power BI Data Analyst Associate (MCDAA)                    | Microsoft         |
-| Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | Microsoft         |
-| Microsoft Applied Skills: Get started with Azure management tasks               | Microsoft         |
-| Microsoft Certified: Azure Data Fundamentals                                    | Microsoft         |
-| Microsoft Certified: Azure Developer Associate                                  | Microsoft         |
-| AWS Certified Cloud Practitioner                                                | AWS               |
-| Aviatrix Certified Engineer (ACE) Multicloud Network Associate                  | Aviatrix          |
-| GitHub Foundation                                                               | GitHub            |
-| Introduction to FinOps                                                          | FinOps Foundation |
-| SQL Associate                                                                   | DataCamp          |
+| Certification                                                                   | Issuer               |
+| ------------------------------------------------------------------------------- | -----------------    |
+| Microsoft Certified: Power BI Data Analyst Associate (MCDAA)                    | Microsoft            |
+| Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | Microsoft            |
+| Microsoft Applied Skills: Get started with Azure management tasks               | Microsoft            |
+| Microsoft Certified: Azure Data Fundamentals                                    | Microsoft            |
+| Microsoft Certified: Azure Developer Associate                                  | Microsoft            |
+| AWS Certified Cloud Practitioner                                                | AWS                  |
+| Aviatrix Certified Engineer (ACE) Multicloud Network Associate                  | Aviatrix             |
+| GitHub Foundation                                                               | GitHub               |
+| Introduction to FinOps                                                          | FinOps Foundation    |
+| SQL Associate                                                                   | DataCamp             |
 
 ---
 
@@ -178,17 +178,18 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 ---
 
 ## 📝 **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Nigeria’s economic future rests on tech — Not oil](https://businessday.ng/opinion/article/nigerias-economic-future-rests-on-tech-not-oil/) - *Business Day*
-- [AI isn’t taking our jobs; it’s transforming them](https://businessday.ng/pro/article/ai-isnt-taking-our-jobs-its-transforming-them/) - *Business Day*
-- [Cloud adoption in Nigeria’s banking: The key to a modern, inclusive future](https://businessday.ng/opinion/article/cloud-adoption-in-nigerias-banking-the-key-to-a-modern-inclusive-future/) - *Business Day*
-- [Multi-Cloud Strategy and How Can It Benefit Enterprises](https://sudais.hashnode.dev/multi-cloud-strategy-and-how-can-it-benefit-enterprises) - *Hashnode*
-- [Creating a Linux Virtual Machine on Microsoft Azure](https://sudais.hashnode.dev/step-by-step-guide-creating-a-linux-virtual-machine-on-microsoft-azure) - *Hashnode*
-- [The Role of Excel in Business Intelligence and Data-Driven Decision-Making](https://sudais.hashnode.dev/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making) - *Hashnode*
-- [Predictive Analytics Failures in Business: What Went Wrong and Why](https://sudais.hashnode.dev/predictive-analytics-failures-in-business-what-went-wrong-and-why) - *Hashnode*
-<!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more on Ibrahim’s Cloud & Data Chronicles](https://sudais.hashnode.dev/)
+I write thought-provoking blogs and opinion pieces on **AI, Data, Cloud, and Digital Transformation**, with a focus on solving **economic challenges in Nigeria and across Africa**. My articles aim to bridge the digital divide, drive innovation, and inspire the adoption of emerging technologies to power sustainable growth.
+
+| Blog Name                                                                               | Details                                                                                                          | Publisher    | Link                                                                                                                                       |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------       |
+| Nigeria’s economic future rests on tech — Not oil                                       | Explores how Nigeria’s economic sustainability depends on technology adoption rather than oil reliance.          | Business Day | [Read Here](https://businessday.ng/opinion/article/nigerias-economic-future-rests-on-tech-not-oil/)                                        |
+| AI isn’t taking our jobs; it’s transforming them                                        | Highlights AI’s role in job transformation, productivity growth, and workforce adaptation.                       | Business Day | [Read Here](https://businessday.ng/pro/article/ai-isnt-taking-our-jobs-its-transforming-them/)                                             |
+| Cloud adoption in Nigeria’s banking: The key to a modern, inclusive future              | Discusses the potential of cloud computing to transform Nigeria’s banking sector for inclusivity and efficiency. | Business Day | [Read Here](https://businessday.ng/opinion/article/cloud-adoption-in-nigerias-banking-the-key-to-a-modern-inclusive-future/)               |
+| Bridging the digital infrastructure gap in rural Africa: Is cloud computing the answer? | Examines how cloud technology can address infrastructure gaps in rural Africa and foster digital inclusion.      | Business Day | [Read Here](https://businessday.ng/opinion/article/bridging-the-digital-infrastructure-gap-in-rural-africa-is-cloud-computing-the-answer/) |
+| Multi-Cloud Strategy and How Can It Benefit Enterprises                                 | Outlines the benefits of a multi-cloud approach for resilience, cost efficiency, and flexibility.                | Hashnode     | [Read Here](https://sudais.hashnode.dev/multi-cloud-strategy-and-how-can-it-benefit-enterprises)                                           |
+| The Role of Excel in Business Intelligence and Data-Driven Decision-Making              | Examines how Excel remains a powerful BI tool for decision-making in modern businesses.                          | Hashnode     | [Read Here](https://sudais.hashnode.dev/the-role-of-excel-in-business-intelligence-and-data-driven-decision-making)                        |
+| Predictive Analytics Failures in Business: What Went Wrong and Why                      | Analyzes reasons predictive analytics projects fail and how to avoid common pitfalls.                            | Hashnode     | [Read Here](https://sudais.hashnode.dev/predictive-analytics-failures-in-business-what-went-wrong-and-why)                                 |
 
 ---
 
