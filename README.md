@@ -152,7 +152,7 @@ Beyond my technical expertise, I am passionate about knowledge sharing. I regula
 ## 🏅 **Certifications**
 
 | Certification                                                                   | Issuer               |
-| ------------------------------------------------------------------------------- | -----------------    |
+| ------------------------------------------------------------------------------- | ----------------------    |
 | Microsoft Certified: Power BI Data Analyst Associate (MCDAA)                    | Microsoft            |
 | Microsoft Applied Skills: Secure storage for Azure Files and Azure Blob Storage | Microsoft            |
 | Microsoft Applied Skills: Get started with Azure management tasks               | Microsoft            |
