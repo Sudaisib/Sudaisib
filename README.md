@@ -1,11 +1,13 @@
 
 
-# 👋 Hi, I'm **Oladosu Ibrahim Adeniyi**!  
+# Hi, I'm **Oladosu Ibrahim Adeniyi**!  
 ![Profile Image](https://github.com/user-attachments/assets/5da2263d-9543-4c34-8799-1fae029d9e77)
 
 ## 🌐 **Data Analyst | Data Engineer | Cloud/DevOps Engineer | Tech Educator | Tech Blogger**
 
-Welcome to my GitHub profile! I am a dedicated **Data Analyst, Data Engineer, and Cloud/DevOps Engineer** with a strong passion for data analytics, cloud computing, and DevOps automation. My expertise lies in transforming raw data into valuable insights, designing and implementing scalable data pipelines, optimizing cloud infrastructure, and streamlining operations through DevOps best practices.  
+Welcome to my GitHub profile! 👋🎉
+
+I am a dedicated **Data Analyst, Data Engineer, and Cloud/DevOps Engineer** with a strong passion for data analytics, cloud computing, and DevOps automation. My expertise lies in transforming raw data into valuable insights, designing and implementing scalable data pipelines, optimizing cloud infrastructure, and streamlining operations through DevOps best practices.  
 
 With a background in **Accounting & Finance**, I transitioned into the tech industry, leveraging my analytical skills to help businesses adopt data-driven solutions and cloud architectures that enhance efficiency and innovation.  
 
